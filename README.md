@@ -17,6 +17,9 @@
 
 * Fu, Cheng-Yang, Mykhailo Shvets, and Alexander C. Berg. 2019. “RetinaMask: Learning to Predict Masks Improves State-of-the-Art Single-Shot Detection for Free.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1901.03353. `computer vision`
 
+* Ge, Z., Liu, S., Li, Z., Yoshie, O., & Sun, J. (2021). OTA: Optimal Transport Assignment for Object Detection. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 303-312). `computer vision`
+    * Also see: https://medium.com/@anhtuan_40207/paper-review-ota-optimal-transport-assignment-for-object-detection-f13b75794e47
+
 * Guo, Meng-Hao, Tian-Xing Xu, Jiang-Jiang Liu, Zheng-Ning Liu, Peng-Tao Jiang, Tai-Jiang Mu, Song-Hai Zhang, Ralph R. Martin, Ming-Ming Cheng, and Shi-Min Hu. 2021. “Attention Mechanisms in Computer Vision: A Survey.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2111.07624. `vision transformers`
 
 * Han, Kai, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, et al. 2020. “A Survey on Vision Transformer.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2012.12556. `vision transformers`
