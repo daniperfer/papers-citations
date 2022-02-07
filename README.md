@@ -62,6 +62,7 @@
 * Sze, Vivienne, Yu-Hsin Chen, Tien-Ju Yang, and Joel Emer. 2017. “Efficient Processing of Deep Neural Networks: A Tutorial and Survey.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1703.09039. `edge computing`
 
 * Tian, Zhi, Chunhua Shen, Hao Chen, and Tong He. 2019. “FCOS: Fully Convolutional One-Stage Object Detection.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1904.01355. `computer vision`
+    * Also see: https://chingisoinar.medium.com/object-detection-explained-fcos-6cc87ae4657b
 
 * Tolstikhin, Ilya, Neil Houlsby, Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Thomas Unterthiner, Jessica Yung, et al. 2021. “MLP-Mixer: An All-MLP Architecture for Vision.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2105.01601. `computer vision`
 
