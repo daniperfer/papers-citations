@@ -72,6 +72,9 @@
 
 * Wang, Erwei, James J. Davis, Ruizhe Zhao, Ho-Cheung Ng, Xinyu Niu, Wayne Luk, Peter Y. K. Cheung, and George A. Constantinides. 2019. “Deep Neural Network Approximation for Custom Hardware: Where We’ve Been, Where We're Going.” ACM Comput. Surv., 40, 52 (2): 1–39. `edge computing`
 
+* Wightman, R., Touvron, H., & Jégou, H. (2021). Resnet strikes back: An improved training procedure in timm. arXiv preprint https://arxiv.org/abs/2110.00476. `computer vision`
+    * Also see: https://sh-tsang.medium.com/review-resnet-strikes-back-an-improved-training-procedure-in-timm-f73dcf817067
+
 * Wu, Tianze, Weiyi Liu, and Yongwei Jin. 2019. “An End-to-End Solution to Autonomous Driving Based on Xilinx FPGA.” In 2019 International Conference on Field-Programmable Technology (ICFPT), 427–30. `edge computing`
 
 * Wu, Yuxin, and Kaiming He. 2018. “Group Normalization.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1803.08494.
