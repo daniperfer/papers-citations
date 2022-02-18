@@ -98,3 +98,7 @@
 * Zoph, Barret, Ekin D. Cubuk, Golnaz Ghiasi, Tsung-Yi Lin, Jonathon Shlens, and Quoc V. Le. 2019. “Learning Data Augmentation Strategies for Object Detection.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1906.11172. `computer vision`
 
 * Zou, Zhengxia, Zhenwei Shi, Yuhong Guo, and Jieping Ye. 2019. “Object Detection in 20 Years: A Survey.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1905.05055. `computer vision`
+
+* Yu, W., Luo, M., Zhou, P., Si, C., Zhou, Y., Wang, X., ... & Yan, S. (2021). Metaformer is actually what you need for vision. arXiv preprint https://arxiv.org/abs/2111.11418v1.
+
+* Letaief, K. B., Shi, Y., Lu, J., & Lu, J. (2021). Edge Artificial Intelligence for 6G: Vision, Enabling Technologies, and Applications. IEEE Journal on Selected Areas in Communications, 40(1), 5-36. & arXiv: https://arxiv.org/abs/2111.12444v1.
