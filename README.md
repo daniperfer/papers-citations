@@ -11,6 +11,7 @@
 * Chen, Yiran, Yuan Xie, Linghao Song, Fan Chen, and Tianqi Tang. 2020. “A Survey of Accelerator Architectures for Deep Neural Networks.” Proceedings of the Estonian Academy of Sciences: Engineering 6 (3): 264–74. `edge computing`
 
 * Dosovitskiy, Alexey, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, et al. 2020. “An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2010.11929. `vision transformers`
+    * Also see: https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c
 
 * Du, Xianzhi, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V. Le, and Xiaodan Song. 2019. “SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1912.05027. `computer vision`
     * Also see: https://medium.com/mlearning-ai/understanding-spine-net-googles-newest-contribution-to-computer-vision-3353d60cf80b
