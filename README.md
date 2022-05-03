@@ -103,3 +103,7 @@
 * Yu, W., Luo, M., Zhou, P., Si, C., Zhou, Y., Wang, X., ... & Yan, S. (2021). Metaformer is actually what you need for vision. arXiv preprint https://arxiv.org/abs/2111.11418v1.
 
 * Letaief, K. B., Shi, Y., Lu, J., & Lu, J. (2021). Edge Artificial Intelligence for 6G: Vision, Enabling Technologies, and Applications. IEEE Journal on Selected Areas in Communications, 40(1), 5-36. & arXiv: https://arxiv.org/abs/2111.12444v1.
+
+* Zhang, Y., Wei, X.-S., Zhou, B., & Wu, J. (2021). Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks. Proceedings of the AAAI Conference on Artificial Intelligence, 35(4), 3447-3455. Retrieved from https://ojs.aaai.org/index.php/AAAI/article/view/16458. `computer vision`
+
+* Yongkun Du, Zhineng Chen, Caiyan Jia, Xuanya Li, and Yu-Gang Jiang. 2021. Bag of Tricks for Building an Accurate and Slim Object Detector for Embedded Applications. In Proceedings of the 2021 International Conference on Multimedia Retrieval (ICMR '21). Association for Computing Machinery, New York, NY, USA, 519–525. https://doi.org/10.1145/3460426.3463659. `computer vision`
