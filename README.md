@@ -107,3 +107,6 @@
 * Zhang, Y., Wei, X.-S., Zhou, B., & Wu, J. (2021). Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks. Proceedings of the AAAI Conference on Artificial Intelligence, 35(4), 3447-3455. Retrieved from https://ojs.aaai.org/index.php/AAAI/article/view/16458. `computer vision`
 
 * Yongkun Du, Zhineng Chen, Caiyan Jia, Xuanya Li, and Yu-Gang Jiang. 2021. Bag of Tricks for Building an Accurate and Slim Object Detector for Embedded Applications. In Proceedings of the 2021 International Conference on Multimedia Retrieval (ICMR '21). Association for Computing Machinery, New York, NY, USA, 519–525. https://doi.org/10.1145/3460426.3463659. `computer vision`
+
+* Wu, H., Xiao, B., Codella, N., Liu, M., Dai, X., Yuan, L., & Zhang, L. (2021). Cvt: Introducing convolutions to vision transformers. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 22-31). https://doi.org/10.48550/arXiv.2103.15808 `vision transformers`
+  * Also see: https://sh-tsang.medium.com/review-cvt-introducing-convolutions-to-vision-transformers-170c227da606
