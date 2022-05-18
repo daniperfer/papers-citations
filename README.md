@@ -110,3 +110,9 @@
 
 * Wu, H., Xiao, B., Codella, N., Liu, M., Dai, X., Yuan, L., & Zhang, L. (2021). Cvt: Introducing convolutions to vision transformers. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 22-31). https://doi.org/10.48550/arXiv.2103.15808 `vision transformers`
   * Also see: https://sh-tsang.medium.com/review-cvt-introducing-convolutions-to-vision-transformers-170c227da606
+
+* Dai, Z., Liu, H., Le, Q. V., & Tan, M. (2021). Coatnet: Marrying convolution and attention for all data sizes. Advances in Neural Information Processing Systems, 34, 3965-3977. https://arxiv.org/abs/2106.04803 
+  * Also see: https://sh-tsang.medium.com/review-coatnet-marrying-convolution-and-attention-for-all-data-sizes-1462b9bc25ac
+
+* Mao, H., & Kong, T. (2019). CaTDet: Cascaded tracked detector for efficient object detection from video. Proceedings of Machine Learning and Systems, 1, 201-211. https://arxiv.org/abs/1810.00434
+  * Also see: https://medium.com/@shreyaverma7/research-review-blog-on-state-of-the-art-real-time-object-detection-3528ec10d330
