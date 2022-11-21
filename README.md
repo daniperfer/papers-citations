@@ -117,7 +117,7 @@
 * Mao, H., & Kong, T. (2019). CaTDet: Cascaded tracked detector for efficient object detection from video. Proceedings of Machine Learning and Systems, 1, 201-211. https://arxiv.org/abs/1810.00434
   * Also see: https://medium.com/@shreyaverma7/research-review-blog-on-state-of-the-art-real-time-object-detection-3528ec10d330
  
-* Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2022). High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10684-10695). `diffusion models`
+* Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2022). High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10684-10695). https://arxiv.org/abs/2112.10752 `diffusion models`
 
 *  Chen, S., Sun, P., Song, Y., Luo, P. (2022). DiffusionDet: Diffusion Model for Object Detection. https://arxiv.org/abs/2211.09788 `diffusion models`
 
