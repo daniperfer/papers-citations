@@ -1,4 +1,8 @@
-# Papers citations
+# Papers explained
+
+https://github.com/dair-ai/ML-Papers-Explained
+
+# Papers references
 
 * “AI Chips: What They Are and Why They Matter.” 2020. Center for Security and Emerging Technology. April 1, 2020. https://cset.georgetown.edu/publication/ai-chips-what-they-are-and-why-they-matter/. `edge computing`
 
