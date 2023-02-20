@@ -125,3 +125,5 @@ https://github.com/dair-ai/ML-Papers-Explained
 
 *  Chen, S., Sun, P., Song, Y., Luo, P. (2022). DiffusionDet: Diffusion Model for Object Detection. https://arxiv.org/abs/2211.09788 `diffusion models`
 
+*  Arani, E., Gowda, S., Mukherjee, R., Magdy, O., Kathiresan, S., & Zonooz, B. (2022). A comprehensive study of real-time object detection networks across multiple domains: A survey. arXiv preprint arXiv:2208.10895. https://arxiv.org/abs/2208.10895 `computer vision` `edge computing`
+
